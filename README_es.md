@@ -1,5 +1,6 @@
 # Acerca de Mí
 
+## Perfil Profesional
 Soy un estudiante avanzado de Ingeniería en Telecomunicaciones con especialización en Sistemas Embebidos. Poseo una sólida formación en el diseño, desarrollo e implementación de sistemas electrónicos y de comunicación, con experiencia en hardware y software embebido.
 
 ## Habilidades Técnicas
