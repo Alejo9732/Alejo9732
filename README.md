@@ -30,11 +30,11 @@ Network Streaming System: Configuration of a network for real-time video transmi
 
 If you want to learn more about my work or collaborate on a project, feel free to reach out:
 
-Email: contact@myemail.com
+Email: ing.lopez.alejo@gmail.com
 
-LinkedIn: My Profile
+LinkedIn: [My Profile](https://www.linkedin.com/in/alejo-lopez-a83507335/)
 
-GitHub: My Repository
+GitHub: [My Repository](https://github.com/Alejo9732?tab=repositories)
 
 ##  License
 
