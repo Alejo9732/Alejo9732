@@ -1,5 +1,9 @@
 #  About Me 
 
+*[Leer en español](README_es.md)*
+
+## Professional Profile
+
 I am an advanced student of Telecommunications Engineering specializing in Embedded Systems. I have a strong background in designing, developing, and implementing electronic and communication systems, with experience in both embedded hardware and software.
 
 ##  Technical Skills
