@@ -1,4 +1,4 @@
-#  About Me
+#  About Me / Sobre mí
 
 I am an advanced student of Telecommunications Engineering specializing in Embedded Systems. I have a strong background in designing, developing, and implementing electronic and communication systems, with experience in both embedded hardware and software.
 
