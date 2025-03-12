@@ -1,11 +1,11 @@
-##  About Me
+#  About Me
 I'm a full stack developer...
 
-# Professional Profile
+##  Professional Profile
 
 I am an advanced student of Telecommunications Engineering specializing in Embedded Systems. I have a strong background in designing, developing, and implementing electronic and communication systems, with experience in both embedded hardware and software.
 
-# Technical Skills
+##  Technical Skills
 
 Programming Languages: C, C++, Python, Verilog
 
@@ -21,7 +21,7 @@ Application Development: React Native, Firebase
 
 Platforms & Tools: Docker, Git, Linux
 
-# Featured Projects
+## Featured Projects
 
 Digital Oscilloscope on FPGA: Implementation using Verilog and Vivado, utilizing XADC for analog signal conversion, VGA visualization, and UART configuration.
 
@@ -29,7 +29,7 @@ Noctify: A cross-platform application for nightlife management, integrating tick
 
 Network Streaming System: Configuration of a network for real-time video transmission with dedicated servers.
 
-# Contact
+##  Contact
 
 If you want to learn more about my work or collaborate on a project, feel free to reach out:
 
@@ -39,7 +39,7 @@ LinkedIn: My Profile
 
 GitHub: My Repository
 
-# License
+##  License
 
 This repository is licensed under the MIT License. See the LICENSE file for details.
 
